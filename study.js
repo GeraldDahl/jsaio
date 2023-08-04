@@ -1,2 +1,4 @@
-let phoneNumber;
-phoneNumber = "123 456 7890";
+let seven = 7;
+let eight = 8;
+let sum = seven + eight;
+sum;
