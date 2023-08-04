@@ -1,5 +1,3 @@
-# Gamelet
+# JavaScript All-in-One For Dummies
 
-A starter program for writing JavaScript games.
-
-```HTML <p>HI<br>HI</p>``````
+I'm learning JavaScript, React, Vue, Svelte, and Node from JavaScript All-in-One For Dummies by Chris Minnick
